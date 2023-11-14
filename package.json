@@ -48,7 +48,7 @@
     "void.nsfw": "^1.0.8-beta"
   },
   "engines": {
-    "node": "12.x"
+    "node": "18.x"
   },
   "repository": {
     "url": ""
